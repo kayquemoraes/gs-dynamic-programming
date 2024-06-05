@@ -1,11 +1,5 @@
 # Projeto: Otimização da Distribuição de Sensores Subaquáticos para Monitoramento de Poluição Oceânica
 
-## Integrantes
-- 97592 | KAYQUE MORAES DIAS
-- 99227 | GABRIEL MARQUEZ TREVISAN
-- 551168 | GUILHERME SILVA DOS SANTOS
-
-
 ## Descrição
 Este projeto utiliza técnicas de programação dinâmica para otimizar a alocação de sensores subaquáticos e a coleta de dados sobre a poluição oceânica. O objetivo é identificar áreas críticas de poluição e priorizar ações de monitoramento e resposta.
 
